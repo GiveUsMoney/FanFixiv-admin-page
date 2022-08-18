@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/FanFixiv-admin-page/static/js/main.5e67a7b1.js",
+    "static/js/787.3d9c4400.chunk.js": "/FanFixiv-admin-page/static/js/787.3d9c4400.chunk.js",
+    "index.html": "/FanFixiv-admin-page/index.html",
+    "main.5e67a7b1.js.map": "/FanFixiv-admin-page/static/js/main.5e67a7b1.js.map",
+    "787.3d9c4400.chunk.js.map": "/FanFixiv-admin-page/static/js/787.3d9c4400.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5e67a7b1.js"
+  ]
+}
